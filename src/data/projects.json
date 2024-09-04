@@ -1,0 +1,11 @@
+[
+  {
+    "title": "PetCare: The Petshop",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://ericklyl.github.io/PetShop/",
+    "source": "https://github.com/ericklyl/PetShop"
+  }
+  
+]
